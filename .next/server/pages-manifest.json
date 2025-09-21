@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/admin/manage": "pages/admin/manage.js",
+  "/": "pages/index.js",
+  "/casesManagedWithComments": "pages/casesManagedWithComments.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/projectWithComments": "pages/projectWithComments.js",
+  "/api/admin/projects": "pages/api/admin/projects.js",
+  "/api/admin/cases": "pages/api/admin/cases.js"
+}
