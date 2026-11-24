@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
-    "next": "latest",
+    "next": "15.5.29",
     "next-auth": "^4.24.11",
     "react": "latest",
     "react-dom": "latest"
